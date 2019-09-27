@@ -1,0 +1,5 @@
+I left my notebook in room 212.
+The data type int in c++ is used for integers.
+Cryptography is a topic used for computer security in computer science.
+The scope of this race track is insane!
+The memory held within a tree ring is incredible.
